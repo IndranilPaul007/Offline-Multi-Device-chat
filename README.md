@@ -4,6 +4,24 @@ A completely private, localized chat room hosted entirely on an ESP8266 microcon
 
 This project turns the ESP8266 into a standalone Wi-Fi Access Point and Web Server. Anyone who connects to the network can access the chat interface and communicate in real-time. The system uses asynchronous JavaScript (`fetch()`) to update the chat logs seamlessly without requiring the page to reload, acting like a local walkie-talkie text network that completely bypasses the internet.
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="Local_offline_chat_device1.jpeg" alt="Chat UI - Mobile Device 1" width="300">
+        <br>
+        <p align="center"><i>Device 1 (Mobile)</i></p>
+      </td>
+      <td>
+        <img src="Local_offline_chat_device2.jpeg" alt="Chat UI - Laptop Device 2" width="300">
+        <br>
+        <p align="center"><i>Device 2 (Laptop)</i></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## Features
 ## Features
 * **100% Offline:** Operates entirely off-the-grid; no internet, cell towers, or external routers required.
 * **Asynchronous Updates:** Uses JS `fetch()` and `setInterval()` to automatically poll for new messages seamlessly.
