@@ -8,12 +8,12 @@ This project turns the ESP8266 into a standalone Wi-Fi Access Point and Web Serv
   <table>
     <tr>
       <td>
-        <img src="Local_offline_chat_device1.jpeg" alt="Chat UI - Mobile Device 1" width="300">
+        <img src="Local_offline_chat_device2.jpeg" alt="Chat UI - Device 1" width="300">
         <br>
         <p align="center"><i>Device 1 (Mobile)</i></p>
       </td>
       <td>
-        <img src="Local_offline_chat_device2.jpeg" alt="Chat UI - Laptop Device 2" width="300">
+        <img src="Local_offline_chat_device1.jpeg" alt="Chat UI - Device 2" width="300">
         <br>
         <p align="center"><i>Device 2 (Laptop)</i></p>
       </td>
